@@ -1,0 +1,16 @@
+1. Ejecutar el archivo llamado "Query.sql" en SQLServer
+
+2. Abrir Carpeta "AplicacionPersonas" 
+
+3. Ejecutar la solucion "AplicacionPersonas.sln"
+
+ 	PDTA: La aplicacion se realizo en visual studio 2022 con .Net 8
+
+4. Editar el archivo "appsettings.json" y cambiar la cadena de Conexion
+	 "DefaultConnection": "Server=(localdb)\\Pruebas;Database=Personas;User Id=Administrador;Password=123456;"
+
+5. Ejecutar con (IIS Express) 
+
+6. Las credenciales por defecto son:
+	Usuario: Admin
+	Pass: 123456

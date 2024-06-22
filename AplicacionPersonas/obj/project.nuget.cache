@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uMn6kimarDRQOZLNh3mhatK6js6T6hTKKbUr5oA0+3Kvie6LiSO+t/58sI5qPeBYY+p5KiATH/9Bq9byZtwEJA==",
+  "dgSpecHash": "CkkUYJRBL37h8OP3lpqqPK7dC1wfiduYM2eOLgH3/Oto737Z1ZLeDohHZPPIFib7lPCaUfk9LUBpsy00w3FbKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\AplicacionPersonas.csproj",
+  "projectFilePath": "C:\\Users\\kevin\\Desktop\\Prueba\\PersonasNet8MVC\\AplicacionPersonas\\AplicacionPersonas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

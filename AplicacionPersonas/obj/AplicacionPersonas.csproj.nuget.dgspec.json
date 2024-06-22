@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\AplicacionPersonas.csproj": {}
+    "C:\\Users\\kevin\\Desktop\\Prueba\\PersonasNet8MVC\\AplicacionPersonas\\AplicacionPersonas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\AplicacionPersonas.csproj": {
+    "C:\\Users\\kevin\\Desktop\\Prueba\\PersonasNet8MVC\\AplicacionPersonas\\AplicacionPersonas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\AplicacionPersonas.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\Desktop\\Prueba\\PersonasNet8MVC\\AplicacionPersonas\\AplicacionPersonas.csproj",
         "projectName": "AplicacionPersonas",
-        "projectPath": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\AplicacionPersonas.csproj",
+        "projectPath": "C:\\Users\\kevin\\Desktop\\Prueba\\PersonasNet8MVC\\AplicacionPersonas\\AplicacionPersonas.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\obj\\",
+        "outputPath": "C:\\Users\\kevin\\Desktop\\Prueba\\PersonasNet8MVC\\AplicacionPersonas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
