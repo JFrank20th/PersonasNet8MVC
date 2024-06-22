@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\views\\personas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:views\\personas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\views\\personas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:views\\personas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|c:\\users\\kevin\\desktop\\almarchivo\\aplicacionpersonas\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A652D8D2-2FE5-4278-B654-EF1476AA150C}|AplicacionPersonas.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Personas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Personas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Personas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T18:33:34.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwJYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:32:06.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Personas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Personas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Personas\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T18:31:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Personas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Personas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Personas\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T18:31:27.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Personas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Personas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Personas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T18:31:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwGQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:30:43.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:30:38.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:26:34.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T18:26:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Almarchivo\\AplicacionPersonas\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:25:57.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

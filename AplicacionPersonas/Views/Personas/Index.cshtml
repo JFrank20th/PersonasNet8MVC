@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Listado de Personas";
+}
+
+<h2>Listado de Personas</h2>
+
+<a asp-action="Create">Crear Nueva Persona</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombres</th>
+            <th>Apellidos</th>
+            <th>Tipo de identificación</th>
+            <th>Numero de identificación</th>
+            <th>Email</th>
+            <th>Fecha Creación</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+                <td>@persona.Id</td>
+                <td>@persona.Nombres</td>
+                <td>@persona.Apellidos</td>
+                <td>@persona.TipoIdentificacion</td>
+                <td>@persona.NumeroIdentificacion</td>
+                <td>@persona.Email</td>
+                <td>@persona.FechaCreacion.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@persona.Id">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@persona.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

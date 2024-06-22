@@ -1,0 +1,50 @@
+﻿@model AplicacionPersonas.Models.Persona
+
+@{
+    ViewData["Title"] = "Crear Persona";
+}
+
+<h2>Crear Persona</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Nombres" class="control-label"></label>
+        <input asp-for="Nombres" class="form-control" />
+        <span asp-validation-for="Nombres" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Apellidos" class="control-label"></label>
+        <input asp-for="Apellidos" class="form-control" />
+        <span asp-validation-for="Apellidos" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TipoIdentificacion" class="control-label"></label>
+        <select asp-for="TipoIdentificacion" class="form-control">
+            <option value="" disabled selected>Seleccione...</option>
+            <option value="CC">CC</option>
+            <option value="TI">TI</option>
+            <option value="PAS">PAS</option>
+        </select>
+        <span asp-validation-for="TipoIdentificacion" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NumeroIdentificacion" class="control-label"></label>
+        <input asp-for="NumeroIdentificacion" class="form-control" />
+        <span asp-validation-for="NumeroIdentificacion" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    @* <div class="form-group">
+        <label asp-for="FechaCreacion" class="control-label"></label>
+        <input asp-for="FechaCreacion" class="form-control" type="date" />
+        <span asp-validation-for="FechaCreacion" class="text-danger"></span>
+    </div> *@
+    <br />
+    <div class="form-group">
+        <input type="submit" value="Crear" class="btn btn-primary" />
+    </div>
+</form>
+

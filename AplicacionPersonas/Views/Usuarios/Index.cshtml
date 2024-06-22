@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Listado de Usuarios";
+}
+
+<h2>Listado de Usuarios</h2>
+
+<a asp-action="Create">Crear Nuevo Usuario</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Pass</th>
+            <th>Fecha Creación</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usuario in Model)
+        {
+            <tr>
+                <td>@usuario.Id</td>
+                <td>@usuario.Nombre</td>
+                <td><input type="password" value="@usuario.Pass" style="border: none; outline: none;" readonly /></td>
+                <td>@usuario.FechaCreacion.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@usuario.Id">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@usuario.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

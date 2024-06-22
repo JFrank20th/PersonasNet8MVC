@@ -1,0 +1,46 @@
+﻿@model AplicacionPersonas.Models.Usuario
+
+@{
+    ViewData["Title"] = "Crear Usuario";
+}
+
+<h2>Crear Persona</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Nombre" class="control-label"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Pass" class="control-label"></label>
+        <div class="input-group">
+            <input asp-for="Pass" class="form-control" type="password" id="txtPassword" />
+            <button type="button" class="btn btn-outline-secondary" onclick="togglePasswordVisibility()" id="BotonPass">
+                Mostrar
+            </button>
+        </div>
+        <span asp-validation-for="Pass" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <input type="submit" value="Crear" class="btn btn-primary" />
+    </div>
+</form>
+
+
+<script>
+    function togglePasswordVisibility() {
+        var passwordField = document.getElementById("txtPassword");
+        var toggleButton = document.getElementById("BotonPass");
+
+        if (passwordField.type === "password") {
+            passwordField.type = "text";
+            toggleButton.textContent = "Ocultar";
+        } else {
+            passwordField.type = "password";
+            toggleButton.textContent = "Mostrar";
+        }
+    }
+</script>
+
